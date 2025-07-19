@@ -1,4 +1,6 @@
 # this is the first comment https://docs.python.org/es/3/tutorial/introduction.html
+#https://docs.python.org/es/3/library/stdtypes.html#numeric-types-int-float-complex
+
 spam = 1  # and this is the second comment
     # ... and now a third!
 text = "# This is not a comment because it's inside quotes."
